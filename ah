@@ -1,0 +1,23 @@
+[33mcommit 7e7d181d29172625a681579d2ed81a10cfec2dc7[m[33m ([m[1;36mHEAD -> [m[1;32madd_classics[m[33m)[m
+Author: Ateeq-Ur-Rehman55 <ateeqsarwarkhand@gmail.com>
+Date:   Sat Oct 12 13:12:28 2024 +0500
+
+    D: adding classics.csv
+
+[33mcommit a89af1f704589ec0a27a453a0152dfc1c46b2f6c[m[33m ([m[1;32mmain[m[33m)[m
+Author: Ateeq-Ur-Rehman55 <ateeqsarwarkhand@gmail.com>
+Date:   Fri Oct 11 10:01:28 2024 +0500
+
+    C: add quotes
+
+[33mcommit d31feeaaed2cb8d66285921d6cfc714313dbfdf9[m
+Author: Ateeq-Ur-Rehman55 <ateeqsarwarkhand@gmail.com>
+Date:   Thu Oct 10 22:40:35 2024 +0500
+
+    B: second commit
+
+[33mcommit 09d99919c82d1e531628a052ce1ecf3c843a2fa5[m
+Author: Ateeq-Ur-Rehman55 <ateeqsarwarkhand@gmail.com>
+Date:   Wed Oct 9 15:40:48 2024 +0500
+
+    A: add contents.md
